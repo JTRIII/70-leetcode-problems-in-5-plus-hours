@@ -8,3 +8,4 @@ Table of Contents
 
 Problems
 1. [217. Contains Duplicate](problems/arrays/217_contains_duplicate.md)
+2. [268. Missing Number](problems/arrays/268_missing_number.md)
