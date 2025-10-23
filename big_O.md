@@ -12,8 +12,7 @@ In computer science, big O notation is used to describe algorithms according to 
 
 **Both** - asymptotically
 
-
-<img src="images/big_o_notation_chart2.png">
+![](images/big_o_notation_chart2.png)
 
 
 # Big (O) - Linear Example
@@ -35,7 +34,7 @@ For number in list:
 return False
 ```
 
-<img src="images/linear_time_chart.png">
+![](images/linear_time_chart.png)
 
 To loop through the entire list of N numbers, and make sure that `2` is or is not in the list, it would take `N` time. We need to check every number in the list once. Making this solution `O(N)` - linear time. The longer the list, (the bigger N is), the longer it would take. 
 
@@ -45,8 +44,7 @@ Our number 2 could be at the beginning of the list, which would make it constant
 
 # Big (O) - Reference Chart
 
-<img src="images/big_o_notation_chart1.jpg">
-
+![](images/big_o_notation_chart1.jpg)
 
 # Big (O) Summary
 
