@@ -9,3 +9,4 @@ Table of Contents
 Problems
 1. [217. Contains Duplicate](problems/arrays/217_contains_duplicate.md)
 2. [268. Missing Number](problems/arrays/268_missing_number.md)
+3. [448. Find All Numbers Disappeared in an Array](problems/arrays/448_find_all_numbers_disappeared_in_an_array.md)
